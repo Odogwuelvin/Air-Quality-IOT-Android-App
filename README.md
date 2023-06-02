@@ -13,17 +13,8 @@ Although there are plans to add more functionalities, due to time constraints, t
 ![App Icon](screenshots/iconApp.jpg)
 **Figure 1: App Icon**
 
----
 
-### Home Screen: 
-The initial screen that greets users when they launch the application is a crucial point of entry into the app's world. It sets the tone and prepares users for the experience that awaits them. Typically, this first screen serves as an introduction or a splash screen, captivating users with a visually pleasing and branded display.
-As the application springs to life, the initial screen takes center stage, capturing attention and creating a sense of anticipation. 
 
-It may feature captivating imagery, a captivating logo, or a brief tagline that reflects the app's purpose and personality. This screen is designed to leave a positive first impression on users, igniting their curiosity and motivating them to explore further.
-![App Icon](screenshots/iconApp.jpg)
-**Figure 1: App Icon**
-
----
 
 ### Home Screen: 
 The initial screen that greets users when they launch the application is a crucial point of entry into the app's world. It sets the tone and prepares users for the experience that awaits them. Typically, this first screen serves as an introduction or a splash screen, captivating users with a visually pleasing and branded display.
