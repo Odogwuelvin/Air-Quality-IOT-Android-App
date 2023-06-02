@@ -10,6 +10,7 @@ Upon launching the app, users are prompted to authenticate or sign up to create 
 - Occupancy Prediction: The app consumes a custom API developed to predict room occupancy based on the previously mentioned air quality indicators.
 
 Although there are plans to add more functionalities, due to time constraints, the existing features provide a comprehensive air quality monitoring solution. Thank you for taking the time to read this description.
+
 ![App Icon](screenshots/iconApp.jpg)
 **Figure 1: App Icon**
 
