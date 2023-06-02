@@ -10,7 +10,7 @@ Upon launching the app, users are prompted to authenticate or sign up to create 
 - Occupancy Prediction: The app consumes a custom API developed to predict room occupancy based on the previously mentioned air quality indicators.
 
 Although there are plans to add more functionalities, due to time constraints, the existing features provide a comprehensive air quality monitoring solution. Thank you for taking the time to read this description.
-![App Icon](screenshots/appico.png)
+![App Icon](screenshots/appico.jpg)
 **Figure 1: App Icon**
 
 ---
@@ -21,7 +21,7 @@ As the application springs to life, the initial screen takes center stage, captu
 
 It may feature captivating imagery, a captivating logo, or a brief tagline that reflects the app's purpose and personality. This screen is designed to leave a positive first impression on users, igniting their curiosity and motivating them to explore further.
 
-![Home Screen](screenshots/homescreen+.png)
+![Home Screen](screenshots/homescreen+.jpg)
 **Figure 2: Home Screen**
 
 ---
@@ -31,7 +31,7 @@ The LOGIN screen is a crucial element of the application, ensuring that only aut
 
 The LOGIN screen interface typically includes intuitive input fields and clear instructions, guiding users through the authentication process. Additional security measures like two-factor authentication may be incorporated to enhance user data protection. Overall, the login screen acts as a secure gateway, allowing users to access their personalized accounts and ensuring a safe and tailored experience within the application.
 
-![Login Screen](screenshots/logi.png)
+![Login Screen](screenshots/login.jpg)
 **Figure 3: Login Screen**
 
 ---
@@ -41,7 +41,7 @@ The SIGN UP screen serves as a platform for new users to register an account wit
 
 The SIGN UP screen ensures a smooth and intuitive experience, guiding users through the registration process with clear instructions and input fields. It acts as a crucial step in expanding the user base and allowing individuals to fully engage with the application's features and services. Overall, the sign-up screen facilitates the onboarding process, enabling new users to establish their presence and begin their journey within the application.
 
-![Sign Up Screen](screenshots/signup.png)
+![Sign Up Screen](screenshots/signup.jpg)
 **Figure 4: Sign Up Screen**
 
 ---
@@ -53,7 +53,7 @@ Our application can detect the occupancy of a room as a machine learning module 
 
 Once the user finishes his session, he can sign out using the Sign out option in the menu at the top-end corner of the screen, which will allow him to return to the login activity. The user must sign in the next time he intends to use the app.
 
-![Dashboard Screen](screenshots/dashboard+.png)
+![Dashboard Screen](screenshots/dashboard.jpg)
 **Figure 5: Dashboard Screen**
 
 ---
@@ -63,7 +63,7 @@ The room lists screen provides users with a comprehensive overview of available 
 
 This screen aims to provide an organized and convenient way for users to manage their rooms, enabling them to monitor air quality efficiently and make necessary adjustments to maintain a healthy environment.
 
-![Room Lists Screen](screenshots/roomlists+.png)
+![Room Lists Screen](screenshots/roomlists.jpg)
 **Figure 6: Room Lists Screen**
 
 ---
@@ -73,7 +73,7 @@ Our application utilizes machine learning algorithms to predict the occupancy of
 
 The machine learning module plays a vital role in optimizing energy consumption and ensuring a healthy and comfortable environment for users. By accurately predicting occupancy, the application can automatically adjust ventilation, heating, and cooling systems to maintain optimal conditions while conserving energy.
 
-![Machine Learning Module](screenshots/machinelearning+.png)
+![Machine Learning Module](screenshots/machinelearning.jpg)
 **Figure 7: Machine Learning Module**
 
 ---
@@ -83,5 +83,5 @@ The notifications feature within the app keeps users informed about important up
 
 By providing timely and relevant notifications, the app enhances user experience and helps them stay proactive in maintaining a healthy environment. Users can customize their notification preferences, choosing which types of alerts they want to receive and how they want to be notified (e.g., push notifications, email notifications, or in-app notifications).
 
-![Notifications](screenshots/notifications.png)
+![Notifications](screenshots/notifications.jpg)
 **Figure 8: Notifications**
